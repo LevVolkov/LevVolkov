@@ -22,3 +22,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Lev+Volkov....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=D3121F&background=00000001&center=&vCenter=&multiline=true&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=540&height=104&lines=My+name+is+Lev...;I+study+at+Netology...;I'm+undergoing+training+as+a+QA+engineer...)](https://git.io/typing-svg)
