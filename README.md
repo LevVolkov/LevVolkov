@@ -57,4 +57,8 @@
 <img align="right" height="50px" width="2050px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
 
+
+[![Telegram Badge](https://img.shields.io/badge/-LevVolkov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/LevVolkov84) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:03011984lev@gmail.com) 
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=levvolkov)
