@@ -37,12 +37,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="90" height="90" />
 </p>
 
-
-<img align="right" height="50px" width="1050px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-
 ----------
 
-### ⚙️ GitHub statistics:
+<img align="right" height="50px" width="2050px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
+
 <table>
   <tr>
     <td>
@@ -53,3 +52,9 @@
     </td>
   </tr>
 </table>
+
+
+<img align="right" height="50px" width="2050px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=levvolkov)
