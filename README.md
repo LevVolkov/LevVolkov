@@ -39,3 +39,17 @@
 
 
 <img align="right" height="50px" width="1050px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
+----------
+
+### ⚙️ GitHub statistics:
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=LevVolkov&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LevVolkov&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
