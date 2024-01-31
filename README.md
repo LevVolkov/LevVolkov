@@ -40,7 +40,7 @@
 
 ----------
 
-<img align="right" height="50px" width="2050px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="25px" width="2050px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
 
 <table>
@@ -55,7 +55,7 @@
 </table>
 
 
-<img align="right" height="50px" width="2050px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="25px" width="2050px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
 
 
