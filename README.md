@@ -1,19 +1,11 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=28&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
-
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Lev+Volkov....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="190px">
 
 
 ---------
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=410&size=25&pause=1000&color=BB1299&background=00000001&center=&vCenter=&multiline=true&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=650&height=104&lines=My+name+is+Lev.;I'm+interested+in+technology;and+testing....)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150px">
 
 
 <picture>
