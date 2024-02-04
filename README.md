@@ -2,28 +2,6 @@
     <div class="content__hello">
       <img class="content__hello-img" src="/IMG_0390.GIF" width="1020px" height="280">
       
----------
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180px">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=410&size=25&pause=1000&color=BB1299&background=00000001&center=&vCenter=&multiline=true&repeat=&random=%D0%9B%D0%9E%D0%96%D0%AC&width=650&height=104&lines=Hello+everyone+👋;I'm+Lev)](https://git.io/typing-svg)
-
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture> 
-
 --------------
 
 <p align="left">
