@@ -1,7 +1,5 @@
-
 <img  class="content__hello-img" src="/IMG_0390.GIF" width="1020px" height="280">
      
-
 <p  align="center"><img src="line.gif"></p>
 
 <table>
