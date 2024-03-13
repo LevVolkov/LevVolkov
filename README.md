@@ -1,10 +1,6 @@
-<table>
-  <tr>
-    <td>
+
 <img  class="content__hello-img" src="/IMG_0390.GIF" width="1020px" height="280">
-      </td>
-  </tr>
-</table> 
+     
 
 <p  align="center"><img src="line.gif"></p>
 
