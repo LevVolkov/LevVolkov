@@ -1,11 +1,12 @@
- <div class="content">
-    <div class="content__hello">
-      <img class="content__hello-img" src="/IMG_0390.GIF" width="1020px" height="280">
-      
---------------
+<table>
+  <tr>
+    <td>
+<img  class="content__hello-img" src="/IMG_0390.GIF" width="985px" height="280">
+      </td>
+  </tr>
+</table> 
 
-<img align="right" height="15px" width="2050px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-
+<p  align="center"><img src="line.gif"></p>
 
 <table>
   <tr>
@@ -18,12 +19,10 @@
   </tr>
 </table>
 
-
-<img align="right" height="15px" width="2050px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-
------
+<p  align="center"><img src="line.gif"></p>
 
 [![Telegram Badge](https://img.shields.io/badge/-LevVolkov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/LevVolkov84) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:03011984lev@gmail.com) 
+
 
 
 
