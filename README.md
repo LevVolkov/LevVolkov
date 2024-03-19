@@ -1,6 +1,6 @@
 <img  class="content__hello-img" src="/IMG_0390.GIF" width="1020px" height="280">
 
-*<h4 align="center">[🛠️ « Полезные материалы по автоматезированному тестированию »](https://github.com/netology-code/aqa-code)</h4>*
+*<h4 align="center">[🛠️ « Полезные материалы по автоматизированному тестированию »](https://github.com/netology-code/aqa-code)</h4>*
      
 <p  align="center"><img src="line.gif"></p>
 
