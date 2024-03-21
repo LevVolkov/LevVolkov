@@ -32,7 +32,7 @@
 *<h4><a href="https://docs.google.com/document/d/1XnjWPBnY48-4_957HTD_KNQv_oRo1oMqW7xYP8lB6WU/edit?usp=sharing"> Клиент сервер </a> ищем запрос, в котором есть нужные параметры, найти, как же выглядят параметры deviceUUID, requestID и status</h4>*
 
 <br>
-https://github.com/netology-code/iqa-homeworks
+
 ------------
 
 *</div>*
