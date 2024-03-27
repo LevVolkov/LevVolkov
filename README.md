@@ -36,7 +36,7 @@
 *<h5><a href="https://docs.google.com/document/d/1XnjWPBnY48-4_957HTD_KNQv_oRo1oMqW7xYP8lB6WU/edit?usp=sharing"> Клиент сервер </a> <br/> ищем запрос, в котором есть нужные параметры, найти, <br/> как же выглядят параметры deviceUUID, <br/> requestID и status</h5>*
 
 <p align="center">
-<img width="1px" src="assets/icon/linedecor.png">             
+<img width="1px" src="assets/gifs/linedecor.png">             
 </p>
 
 <div align="center">
@@ -83,7 +83,7 @@
 *<h5><a href="https://github.com/netology-code/guides/blob/master/git-basics/GitMaterialsAll.md"> Материалы по работе с Git и GitHub </a></h5>*
 
 <p  align="center">
-<img width="1px" src="assets/icon/linedecor.png">             
+<img width="1px" src="assets/gifs/linedecor.png">             
 </p>
 
 <div align="center">
@@ -169,7 +169,7 @@
 *<h5> Закрываем составленные коллегой баг-репорты, исправив баги </h5>*
 
 <p  align="center">
-<img width="1px" src="assets/icon/linedecor.png">             
+<img width="1px" src="assets/gifs/linedecor.png">             
 </p>
 
 <div align="center">
@@ -230,7 +230,7 @@
 </div>
  
 <p align="center">
-<img width="1px" src="assets/icon/linedecor.png">             
+<img width="1px" src="assets/gifs/linedecor.png">             
 </p>
 
 </div>
