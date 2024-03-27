@@ -30,7 +30,7 @@
 *<div align="center">*
 *<h5><a href="https://github.com/netology-code/iqa-homeworks">Учебные материалы</a></h5>*
 *<h5><a href="https://github.com/netology-code/iqa-diplom">Заданиия курсовой</a></h5>*
-*<h5><a href="https://docs.google.com/spreadsheets/d/1izwdoHvAUXkukRRkRCoaPGdZd58F3e-VzDqhPq9L9ys/edit?usp=sharing"> Чеклист <a/> для функциональной проверки личного кабинета зарегистрированного <br/> авторизованного пользователя, включая функционал разделов, <br/> на сайте Henderson  </h5>*
+*<h5><a href="https://docs.google.com/spreadsheets/d/1izwdoHvAUXkukRRkRCoaPGdZd58F3e-VzDqhPq9L9ys/edit?usp=sharing"> Чеклист <a/> для функциональной проверки личного кабинета зарегистрированного авторизованного <br/> пользователя, включая функционал разделов, <br/> на сайте Henderson  </h5>*
 *<h5><a href="https://docs.google.com/spreadsheets/d/1G3ZCS60na-KQbO-MeoA0ctaEfOO8Q-_NehnNrnrAL6g/edit?usp=sharing"> Набор тест-кейсов </a> на проверку функционала восстановление пароля </h4>*
 *<h5><a href="https://docs.google.com/spreadsheets/d/1AtjTjpJy5xd7R1_6svUvym4Pxv-HdDvtYA7a-Rwi2S0/edit?usp=sharing"> Баг-репорты </a> на основе скриншота </h5>*
 *<h5><a href="https://docs.google.com/document/d/1tFmdkzxJWfE0AnDIqFiGZpvuboc3EqbBWGtiQaJtZg4/edit?usp=sharing"> Тестирование верстки </a> <br/> страницы карточки товара с максимальной и минимальной ценой</h5>*
