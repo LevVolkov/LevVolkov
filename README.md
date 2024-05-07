@@ -63,7 +63,7 @@
         <tr>
 	       <td></br></br><p align=""><a href="https://netology.ru/sharing/258baa3ed45659f21616886d99969b52?utm_source=social&utm_campaign=certificate_lms">
 		 <img  width="340px" alt="svg" src="assets/Certificate/web.jpg" /></a> &nbsp; 
-              <a href="">
+              <a href="https://github.com/LevVolkov/LevVolkov/blob/main/assets/Certificate/TouchTyping.jpg">
 		 <img  width="340px" alt="svg" src="assets/Certificate/TouchTyping.jpg" /></a></p></br></td>
  </tr>
 </table>
